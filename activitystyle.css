@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Epilogue:200,300,500,700');
+body {
+    background-color: #8baba6;
+    font-family:Epilogue;
+    padding: 100px;
+}
+.content {
+    color:blanchedalmond;
+}
+
+.nav-links { 
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    display: inline;
+
+}
+
