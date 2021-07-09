@@ -124,12 +124,21 @@ body {
             padding-left: 50px;
             
         }
-        .picc
-            justify-content: center;
-            
+        .picc {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
         }
+
+        .graduation{
+            display:flex;
+            flex-direction:row;
+            justify-content: space-around;
+
         }
-        .YES{
-            padding: 50px;
+        .about{
+            display: flex;
+            flex-direction: row;
 
         }
